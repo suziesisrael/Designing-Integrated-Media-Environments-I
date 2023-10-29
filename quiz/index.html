@@ -1,5 +1,28 @@
 <html>
+<head>
+  <style>
+    * {
+      line-height: 2 !important;
+      background: #ffe2e6;
 
+    }
+    caption {
+    font-size: 3rem;
+    color: #333;
+    }
+
+    textarea {
+        display: block;
+        width: 80vw;
+        font-family: sans-serif;
+        font-size: 1.2rem;
+        padding: 1rem;
+        background: white;
+        line-height: 1 !important;
+    }
+
+  </style>
+</head>
 <body>
 
   <div align="left">
@@ -8,17 +31,17 @@
     <tr>
       <td width="50%"><form method="POST" name="instantquiz">
         <table border="0" width="100%" cellspacing="0" cellpadding="0">
-          <caption><strong>JavaScript Kit Pop Quiz</strong></caption>
+          <caption><strong>WordPress Quiz for CLAS Web Users</strong></caption>
+          <tr><td>
+            <p style="text-align: center">Although the quiz was created for a class assignment, it could be repurposed to assess the readiness of new users to obtain editing privileges to a CLAS WordPress site.<br><br></p>
+            </td>
+          </tr>
           <tr>
             <td width="100%"><div align="center"><center><p><textarea rows="10" name="thequestion"
             cols="69" wrap="virtual"></textarea></td>
           </tr>
           <tr align="center">
-            <td width="50%"><div align="center"><center><p><strong>Solution: </strong><input
-            type="text" name="thesolution" size="35"></td>
-          </tr>
-          <tr align="center">
-            <td width="100%"><div align="center"><center><p><strong>Your response:</strong> <select
+            <td width="100%"><br><div align="center"><center><p><strong>Select your response:</strong> <select
             name="theresponse" size="1" onChange="responses()">
               <option value="-----">----</option>
               <option value="a">a</option>
@@ -30,7 +53,13 @@
             value="Next&gt;&gt;" name="B2"
             onClick="if (whichone&lt;=total){whichone++;generatequestions()}"><br>
             <small><a href="#" onClick="whichone=1;generatequestions();return false">Start Over</a> </small><input
-            type="checkbox" name="cmode" value="ON"><small>Cheat Mode</small><p align="center"><font face="arial" size="-2">This free quiz script provided by</font><br> <font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript Kit</a></font></p></td>
+            type="checkbox" name="cmode" value="ON"><small>Cheat Mode</small></td>
+          </tr>
+          <tr align="center">
+            <td width="50%"><br><div align="center"><center><p><strong>Did you get it right? </strong><input
+            type="text" name="thesolution" size="35"></td>
+          </tr>
+          <tr><td><p align="center"><font face="arial" size="-2">This free quiz script provided by</font><br> <font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript Kit</a></font></p></td>
           </tr>
         </table>
       </form>
@@ -57,9 +86,9 @@
   if (!document.instantquiz.cmode.checked||whichone>=total+1||whichone<=0)
   document.instantquiz.thesolution.value=''
   if (whichone>=total+1)
-  tempmn.value="End of quiz"
+  tempmn.value="Congratulations for completing the quiz!"
   else{
-  tempmn.value=whichone+")"+question[whichone]+"\n\n"+"a)"+eval('choice'+whichone+'[1]')+"\n"+"b)"+eval('choice'+whichone+'[2]')+"\n"+"c)"+eval('choice'+whichone+'[3]')+"\n"+"d)"+eval('choice'+whichone+'[4]')
+  tempmn.value=whichone+") "+question[whichone]+"\n\n"+"a) "+eval('choice'+whichone+'[1]')+"\n"+"b) "+eval('choice'+whichone+'[2]')+"\n"+"c) "+eval('choice'+whichone+'[3]')+"\n"+"d) "+eval('choice'+whichone+'[4]')
   if (document.instantquiz.cmode.checked)
   document.instantquiz.thesolution.value=solution[whichone]
   }
@@ -75,8 +104,11 @@
   }
 
   generatequestions()
+
+
+
   </script>
 
-    
+
 </body>
 </html>
