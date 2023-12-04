@@ -3669,9 +3669,9 @@
 
 /* Header */
 
-	body.subpage {
+	/*body.subpage {
 		padding-top: 3.25em;
-	}
+	}*/
 
 	@-moz-keyframes reveal-header {
 		0% {
@@ -4332,3 +4332,8 @@
 			}
 
 		}
+
+iframe {
+	aspect-ratio: 16/9;
+	width: 100%;
+}
