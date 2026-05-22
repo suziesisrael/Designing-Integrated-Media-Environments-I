@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Tiny Tech</title>
+<description>Step into the world of nanotechnology with Tiny Tech. Tiny Tech is a series of radio modules focusing on the science and engineering of the very small.</description>
+ <link>https://lmwhite.chem.ufl.edu/tiny-tech/</link>
+ <language>en-us</language>
+ <copyright>Copyright 2012</copyright>
+ <lastBuildDate>Sun, 23 Sep 2012 00:48:00 -0500</lastBuildDate>
+ <pubDate>Sun, 23 Sep 2012 00:48:00 -0500</pubDate>
+ <docs>https://cnem.chem.ufl.edu/tinytechpodcast.xml</docs>
+ <webMaster>lmwhite@chem.ufl.edu (Lisa McElwee-White)</webMaster>
+ <itunes:author>lmwhite.chem.ufl.edu</itunes:author>
+ <itunes:subtitle>Small Things. Big Changes. </itunes:subtitle>
+ <itunes:summary>Step into the world of nanotechnology with Tiny Tech. Tiny Tech is a series of radio modules focusing on the science and engineering of the very small.</itunes:summary>
+
+ <itunes:owner>
+ <itunes:name>University of Florida Center for Nanostructured Electronic Materials</itunes:name>
+ <itunes:email>lmwhite@chem.ufl.edu</itunes:email>
+ </itunes:owner>
+
+<itunes:explicit>No</itunes:explicit>
+<atom:link href="https://cnem.chem.ufl.edu/tinytechpodcast.xml" rel="self" type="application/rss+xml" />
+
+<itunes:image href="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/tiny-tech-album-cover-1.jpg"/>
+ 
+<itunes:category text="Technology">
+ <itunes:category text="Tech News"/>
+</itunes:category>
+
+
+
+<item>
+	<title>What is Nanotechnology?</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>Let's talk small, really small.</itunes:subtitle>
+	<itunes:summary>Episode 001
+
+Let's talk small, really small.  The field of nanotechnology is making big advances toward achieving precise control of matter on the nanometer scale. A nanometer is one billionth of a meter, or about the size of four adjacent atoms. </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0001-What-is-Nanotechnology.mp3" length="1435049 " type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0001-What-is-Nanotechnology.mp3</guid>
+	<pubDate>Fri, 6 Jan 2017 03:35:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, science</itunes:keywords>
+</item>
+
+
+<item>
+	<title>The Impact of Nanotechnology</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>We live in a world of change, and the technology that surrounds us is changing especially fast.  One important contributor is something called nanotechnology.</itunes:subtitle>
+	<itunes:summary>Episode 002
+
+We live in a world of change, and the technology that surrounds us is changing especially fast.  One important contributor is something called nanotechnology.</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0002-The-Impact-of-Nanotechnology.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0002-The-Impact-of-Nanotechnology.mp3</guid>
+	<pubDate>Fri, 13 Jan 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:29</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+<item>
+	<title>The Single-Electron Transistor</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>Transistors are everywhere:  in computers, in cell phones, and even in those gimmicky greeting cards that play tunes when they're opened.</itunes:subtitle>
+	<itunes:summary>Episode 003
+
+Transistors are everywhere:  in computers, in cell phones, and even in those gimmicky greeting cards that play tunes when they're opened.</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0003-The-Single-Electron-Transister.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0003-The-Single-Electron-Transister.mp3</guid>
+	<pubDate>Fri, 27 Jan 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+<item>
+	<title>Nanoelectromechanical Systems</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>In the 1966 movie Fantastic Voyage, Hollywood star Raquel Welch was part of a surgical team that was placed aboard a submarine, miniaturized to microscopic size, and injected into the bloodstream of a man. </itunes:subtitle>
+	<itunes:summary>Episode 004
+
+In the 1966 movie Fantastic Voyage, Hollywood star Raquel Welch was part of a surgical team that was placed aboard a submarine, miniaturized to microscopic size, and injected into the bloodstream of a man. </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0004-Nanoelectromechanical-Systems.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0004-Nanoelectromechanical-Systems.mp3</guid>
+	<pubDate>Fri, 3 Feb 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+<item>
+	<title>Gold Nanoparticles: Not Just Tiny!</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>What would happen if you were to take a gold coin and cut it into two pieces, and then into four, and kept going until you had very tiny pieces consisting of perhaps a thousand gold atoms each?  </itunes:subtitle>
+	<itunes:summary>Episode 005
+
+What would happen if you were to take a gold coin and cut it into two pieces, and then into four, and kept going until you had very tiny pieces consisting of perhaps a thousand gold atoms each?  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0005-Gold-Nanoparticles-Not-Just-Tiny.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0005-Gold-Nanoparticles-Not-Just-Tiny.mp3</guid>
+	<pubDate>Fri, 10 Feb 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>More on Moore's Law</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>In 1965, the chemist Gordon Moore predicted that the number of transistors on a computer chip would double every two years, due to improvements in technology to make the individual circuit components smaller and smaller. </itunes:subtitle>
+	<itunes:summary>Episode 006
+	
+In 1965, the chemist Gordon Moore predicted that the number of transistors on a computer chip would double every two years, due to improvements in technology to make the individual circuit components smaller and smaller. </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0006-More-on-Moores-Law.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0006-More-on-Moores-Law.mp3"</guid>
+	<pubDate>Fri, 03 March 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Viruses as Nanotechnology</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>Feeling sick? Although many illnesses are caused by microorganisms, other diseases such as cystic fibrosis and hemophilia are genetic disorders, caused by abnormalities in the DNA of our own chromosomes. </itunes:subtitle>
+	<itunes:summary>Episode 007
+	
+Feeling sick? Although many illnesses are caused by microorganisms, other diseases such as cystic fibrosis and hemophilia are genetic disorders, caused by abnormalities in the DNA of our own chromosomes. </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0007-Viruses-vs-Nanotechnology.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0007-Viruses-vs-Nanotechnology.mp3</guid>
+	<pubDate>Fri, 10 March 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+
+<item>
+	<title>Carbon Nanotubes</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>A key ingredient in many products, from pencil leads to tennis racquets, is the chemical substance graphite.  Graphite is a form of carbon in which the atoms bond to one another in sheets that are one atom thick. </itunes:subtitle>
+	<itunes:summary>Episode 008
+	
+A key ingredient in many products, from pencil leads to tennis racquets, is the chemical substance graphite.  Graphite is a form of carbon in which the atoms bond to one another in sheets that are one atom thick. </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0008-Carbon-Nanotubes.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0008-Carbon-Nanotubes.mp3</guid>
+	<pubDate>Fri, 21 April 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Green Nanomaterials</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>The topic is green nanomaterials.  Like other nanomaterials, they're made from nano-sized components, but they are especially friendly to the environment. </itunes:subtitle>
+	<itunes:summary>Episode 009 The topic is green nanomaterials.  Like other nanomaterials, they're made from nano-sized components, but they are especially friendly to the environment.  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0009-Green-Nanomaterials.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0009-Green-Nanomaterials.mp3</guid>
+	<pubDate>Fri, 19 May 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Quantum Dots</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>I don't know about you, but I get crabby if my shoes are too small for my feet.Well, electrons don't get crabby, but they do change properties if they are confined in small spaces.The small spaces that scientists are using to... </itunes:subtitle>
+	<itunes:summary>Episode 010
+	
+I don't know about you, but I get crabby if my shoes are too small for my feet.Well, electrons don't get crabby, but they do change properties if they are confined in small spaces.The small spaces that scientists are using to... </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0010-Quantum-Dots.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0010-Quantum-Dots.mp3</guid>
+	<pubDate>Fri, 2 June 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Scanning Probe Microscopy</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>What's the smallest thing you can see? Well, ordinary microscopes can image things that are about 100 times smaller than a human hair, which actually is still pretty big on the nano scale.For smaller objects, you... </itunes:subtitle>
+	<itunes:summary>Episode 011
+	
+What's the smallest thing you can see? Well, ordinary microscopes can image things that are about 100 times smaller than a human hair, which actually is still pretty big on the nano scale.For smaller objects, you... </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0011-Scanning-Probe-Microscope.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0011-Scanning-Probe-Microscope.mp3</guid>
+	<pubDate>Fri, 09 June 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+
+<item>
+	<title>Nanostructured Catalysts</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>If you are in the business of making plastics, or gasoline, or pharmaceuticals, you quickly discover that the chemical reactions to make them are really slow: you can mix the reactants and wait years -- and nothing... </itunes:subtitle>
+	<itunes:summary>Episode 012
+	
+If you are in the business of making plastics, or gasoline, or pharmaceuticals, you quickly discover that the chemical reactions to make them are really slow: you can mix the reactants and wait years -- and nothing... </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0012-Nanostructured-Catalysts.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0012-Nanostructured-Catalysts.mp3</guid>
+	<pubDate>Fri, 16 June 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+<item>
+	<title>The Feat of Sticky Little Feet </title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>Consider the gecko, a fascinating lizard. Geckos have the amazing ability to walk upside down even on the undersides of smooth surfaces such as glass.This ability is due to the millions of tiny flexible hairs on the undersides of their feet. </itunes:subtitle>
+	<itunes:summary>Episode 013
+	
+Consider the gecko, a fascinating lizard. Geckos have the amazing ability to walk upside down even on the undersides of smooth surfaces such as glass.This ability is due to the millions of tiny flexible hairs on the undersides of their feet.  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0013-Gecko-Feet.mp3"> length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0013-Gecko-Feet.mp3"</guid>
+	<pubDate>Fri, 14 July 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Luminescent Nanomaterials</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>Feeling energetic?Well, sometimes molecules end up with excess energy too.This can happen in several ways, such as when molecules absorb light, are subjected to an electrical current, or undergo a chemical... </itunes:subtitle>
+	<itunes:summary>Episode 014
+	
+Feeling energetic?Well, sometimes molecules end up with excess energy too.This can happen in several ways, such as when molecules absorb light, are subjected to an electrical current, or undergo a chemical... </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0014-Luminescent-Molecules.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0014-Luminescent-Molecules.mp3</guid>
+	<pubDate>Fri, 21 July 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Nanocar Race</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>How would you like to drive on a racetrack of solid gold or silver? Well, six teams of scientists recently did just that. However, it would take 100 of their racetracks, laid end-to-end, to equal the thickness of a piece of paper, and...</itunes:subtitle>
+	<itunes:summary>Episode 015
+	
+How would you like to drive on a racetrack of solid gold or silver? Well, six teams of scientists recently did just that. However, it would take 100 of their racetracks, laid end-to-end, to equal the thickness of a piece of paper, and... </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0015-Nano-Car-Race.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0015-Nano-Car-Race.mp3</guid>
+	<pubDate>Fri, 28 July 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Superparamagnetic Nanoparticles</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>The dark mag-stripe on your credit card is made of iron-containing particles, each of which is a magnet with a north and south pole.  The information on your card is stored by making magnetic patterns, in which the poles...</itunes:subtitle>
+	<itunes:summary>Episode 016
+	
+The dark mag-stripe on your credit card is made of iron-containing particles, each of which is a magnet with a north and south pole.  The information on your card is stored by making magnetic patterns, in which the poles... </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0016-Superparamagnetic-Nanoparticles.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0016-Superparamagnetic-Nanoparticles.mp3</guid>
+	<pubDate>Fri, 11 August 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Titania Nanosheets</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>In the modern world, titania (also known by its chemical formula, TiO2) can be found in many products.This is because titania is great at absorbing UV light, making it ideal for use in protective coatings like paint or sunscreen...</itunes:subtitle>
+	<itunes:summary>Episode 017
+	
+In the modern world, titania (also known by its chemical formula, TiO2) can be found in many products.This is because titania is great at absorbing UV light, making it ideal for use in protective coatings like paint or sunscreen... </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0017-Titania-Nanosheets.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0017-Titania-Nanosheets.mp3</guid>
+	<pubDate>Fri, 22 September 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Nanotechnology and Diabetes</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>There are many reasons for getting a tattoo: personal expression, remembrance of a family member, or just for fun. But what if there could be a medical reason for getting a tattoo? People with diabetes must... </itunes:subtitle>
+	<itunes:summary>Episode 018
+	
+There are many reasons for getting a tattoo: personal expression, remembrance of a family member, or just for fun. But what if there could be a medical reason for getting a tattoo? People with diabetes must...  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0018-Nanotechnology-and-Diabetes.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0018-Nanotechnology-and-Diabetes.mp3</guid>
+	<pubDate>Fri, 13 Oct 2017 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+
+<item>
+	<title>Graphene: Tale of the Tape</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>Remember when you were a kid, drawing all over your desk with your trusty number 2 pencil and then trying to rub off the black graphite marks with your hands? Well, if you had tried to clean your blackened fingers...  </itunes:subtitle>
+	<itunes:summary>Episode 019
+	
+Remember when you were a kid, drawing all over your desk with your trusty number 2 pencil and then trying to rub off the black graphite marks with your hands? Well, if you had tried to clean your blackened fingers...   </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0019-Graphene-MP3.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0019-Graphene-MP3.mp3</guid>
+	<pubDate>Fri, 23 Feb 2018 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+
+
+<item>
+	<title>Organic Solar Cells</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>Ever wonder how a solar cell works?  When sunlight strikes a solar cell, its energy is transferred to electrons, which jump out of their original locations and move through the solar cell, creating an electrical current...  </itunes:subtitle>
+	<itunes:summary>Episode 020
+	
+Ever wonder how a solar cell works?  When sunlight strikes a solar cell, its energy is transferred to electrons, which jump out of their original locations and move through the solar cell, creating an electrical current...   </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0020-Plastic-Solar-Cells.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0020-Plastic-Solar-Cells.mp3</guid>
+	<pubDate>Fri, 6 April 2018 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>The Amazing Spider Silk</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle>The plastic items we know so well are made of polymers, materials consisting of simple repeating units of particular chemicals. As it turns out, nature is a brilliant polymer chemist...  </itunes:subtitle>
+	<itunes:summary>Episode 021
+	
+The plastic items we know so well are made of polymers, materials consisting of simple repeating units of particular chemicals. As it turns out, nature is a brilliant polymer chemist...   </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0021-Spider-Silk-MP3.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0021-Spider-Silk-MP3.mp3</guid>
+	<pubDate>Mon, 7 May 2018 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+
+<item>
+	<title>Nanowire Barcodes</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle> When I'm at the grocery store, I always seem to be in the slowest checkout line. But it's faster than it used to be because products come with a barcode on the label...   </itunes:subtitle>
+	<itunes:summary>Episode 022
+	
+ When I'm at the grocery store, I always seem to be in the slowest checkout line. But it's faster than it used to be because products come with a barcode on the label...    </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0022-Bar-Coded-Nanowires.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0022-Bar-Coded-Nanowires.mp3</guid>
+	<pubDate>Tue, 18 September 2018 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+	<title>Aerogels Lighter than a Feather</title>
+	<itunes:author>Tiny Tech Radio Series</itunes:author>
+	<itunes:subtitle> In the movie Back to the Future, George McFly was a little confused when he told his future wife I am your density....   </itunes:subtitle>
+	<itunes:summary>Episode 023
+	
+ In the movie Back to the Future, George McFly was a little confused when he told his future wife I am your density....    </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0023-Aerogels.mp3" length="1435006" type="audio/mpeg" />
+	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0023-Aerogels.mp3</guid>
+	<pubDate>Wed, 5 December 2018 03:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+	<itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Nanodiamonds are Forever</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Diamonds are a Girl's Best Friend sang Marilyn Monroe in Gentleman Prefer Blondes.  However nanodiamonds may become everyone's best friend!...   </itunes:subtitle>
+    <itunes:summary>Episode 024
+     
+ Diamonds are a Girl's Best Friend sang Marilyn Monroe in Gentleman Prefer Blondes.  However nanodiamonds may become everyone's best friend!...    </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0024-Nanodiamonds.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0024-Nanodiamonds.mp3</guid>
+    <pubDate>Sat, 12 January 2019 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Photothermal Therapy  Can You Take the Heat?</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> If the cells in your body get hot, they get a little uncomfortable and don't work as well. Unlike us, they can't just drink some ice-cold lemonade to cool off. Your cells can only live near body temperature, and if things get too hot, they die. This is true for normal cells, and also for cancer cells...   </itunes:subtitle>
+    <itunes:summary>Episode 025
+     
+ If the cells in your body get hot, they get a little uncomfortable and don't work as well. Unlike us, they can't just drink some ice-cold lemonade to cool off. Your cells can only live near body temperature, and if things get too hot, they die. This is true for normal cells, and also for cancer cells.    </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0025-Photothermal-Therapy.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0025-Photothermal-Therapy.mp3</guid>
+    <pubDate>Fri, 3 May 2019 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>The Incredible Shrinking Gel</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Remember that annoying cotton shirt that shrank two sizes after you did your laundry?  Well, scientists have recently developed a really clever way to use a similar effect to make tiny three dimensional devices...   </itunes:subtitle>
+    <itunes:summary>Episode 026
+     
+ Remember that annoying cotton shirt that shrank two sizes after you did your laundry?  Well, scientists have recently developed a really clever way to use a similar effect to make tiny three dimensional devices.   </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0026-Incredible-Shrinking-Gel.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0026-Incredible-Shrinking-Gel.mp3</guid>
+    <pubDate>Fri, 10 May 2019 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>The Nanotechnology of Batteries</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Batteries are an amazing technology.  Each battery is a little chemical reactor:  when power is needed, the chemical reaction proceeds, and electricity is generated.   When the chemical reaction ends, the battery is dead.  Of all the kinds of batteries, lithium-ion batteries have the greatest energy per unit weight, which is why they are used in such things as laptop computers...   </itunes:subtitle>
+    <itunes:summary>Episode 027
+     
+ Batteries are an amazing technology.  Each battery is a little chemical reactor:  when power is needed, the chemical reaction proceeds, and electricity is generated.   When the chemical reaction ends, the battery is dead.  Of all the kinds of batteries, lithium-ion batteries have the greatest energy per unit weight, which is why they are used in such things as laptop computers.   </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0027-The-Nanotechnology-of-Batteries.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0027-The-Nanotechnology-of-Batteries.mp3</guid>
+    <pubDate>Wed, 7 August 2019 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Nanodentistry</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Teeth make eating possible, sharks scary, and smiles pretty.  But when you have a cavity, you need to see a dentist.  For over 200 years, dentists have been filling cavities with amalgams, which are mixtures of silver, mercury, and other metals.  Since the 1970s, however, dentists have increasingly been using a new material called a composite, which is made by adding powdered quartz to a plastic resin...</itunes:subtitle>
+    <itunes:summary>Episode 028
+     
+Teeth make eating possible, sharks scary, and smiles pretty.  But when you have a cavity, you need to see a dentist.  For over 200 years, dentists have been filling cavities with amalgams, which are mixtures of silver, mercury, and other metals.  Since the 1970s, however, dentists have increasingly been using a new material called a composite, which is made by adding powdered quartz to a plastic resin.   </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0028-Nanodentistry.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0028-Nanodentistry.mp3</guid>
+    <pubDate>Fri, 27 September 2019 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>The Blue of a Spider</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Got the blues?  Well, someone who's really blue - but likes it - is the cobalt blue tarantula.  This large spider gets its color not from a pigment, but from tiny structures in its hair, which cause the reflected light to display an effect called interference.  The same interference effect causes soap bubbles, opals, and butterfly wings to display many different colors depending on what angle you view them from.  What is remarkable about the cobalt blue tarantula is that the color doesn't change in this way, but stays the same...</itunes:subtitle>
+    <itunes:summary>Episode 029
+     
+Got the blues?  Well, someone who's really blue -- but likes it -- is the cobalt blue tarantula.  This large spider gets its color not from a pigment, but from tiny structures in its hair, which cause the reflected light to display an effect called interference.  The same interference effect causes soap bubbles, opals, and butterfly wings to display many different colors depending on what angle you view them from.  What is remarkable about the cobalt blue tarantula is that the color doesn't change in this way, but stays the same.   </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0029-Blue-of-a-Spider.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0029-Blue-of-a-Spider.mp3</guid>
+    <pubDate>Fri, 11 October 2019 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Molecules and the Modern-Day Sherlock Holmes</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> The 1930s radio version of the great fictional detective, Sherlock Holmes, often exclaimed Elementary, my dear Watson! when he reached an obvious conclusion.  What you might not know, is that Sherlock Holmes was an expert chemist, often carrying out chemical experiments as part of his detective work...</itunes:subtitle>
+    <itunes:summary>Episode 030
+     
+The 1930s radio version of the great fictional detective, Sherlock Holmes, often exclaimed Elementary, my dear Watson! when he reached an obvious conclusion.  What you might not know, is that Sherlock Holmes was an expert chemist, often carrying out chemical experiments as part of his detective work. </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0030-SERS-analysis.mp3">Download .mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0030-SERS-analysis.mp3">Download .mp3</guid>
+    <pubDate>Wed, 8 January 2020 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>3D Nanoprinting with an Electron Beam Pen</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> These days, you can use a 3D printer to make almost anything  from a missing part for a broken toy to a prosthetic leg! Zooming down to the nanoscale, scientists are also developing ways of using 3D printing to make very tiny objects...</itunes:subtitle>
+    <itunes:summary>Episode 031
+     
+These days, you can use a 3D printer to make almost anything  from a missing part for a broken toy to a prosthetic leg! Zooming down to the nanoscale, scientists are also developing ways of using 3D printing to make very tiny objects.  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0031-3D-Nanoprinting.mp3"length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0031-3D-Nanoprinting.mp3"</guid>
+    <pubDate>Wed, 15 January 2020 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Chemical Bonding on Video</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Chemical bonds are small, so small in fact that we can't see them with the most powerful optical microscopes. That's because the wavelength of visible light is about 400 times larger than the usual bond length. That's where electrons come in. Electrons are wave-like particles that are tiny, just like bonds, and can be used instead of light. When the sample is thin enough, electrons travel through the material and are collected on the other side by a detector that produces an image...</itunes:subtitle>
+    <itunes:summary>Episode 032
+     
+Chemical bonds are small, so small in fact that we can't see them with the most powerful optical microscopes. That's because the wavelength of visible light is about 400 times larger than the usual bond length. That's where electrons come in. Electrons are wave-like particles that are tiny, just like bonds, and can be used instead of light. When the sample is thin enough, electrons travel through the material and are collected on the other side by a detector that produces an image.  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0032-Chemical-Bond-Video.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0032-Chemical-Bond-Video.mp3</guid>
+    <pubDate>Tue, 07 April 2020 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Antibacterial Nanostructures</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Looking for a new way to kill germs? Nanotechnology might hold the answer. Bacteria are becoming more resistant to current drugs, making it harder to treat diseases caused by them. There is constant research into making new molecules to fight these more resistant pathogens, however there is always the chance that the bacteria will eventually adjust to new drugs in turn. Nanotechnology offers a different approach and recent advances are starting to bring their use closer to reality...</itunes:subtitle>
+    <itunes:summary>Episode 033
+     
+Looking for a new way to kill germs? Nanotechnology might hold the answer. Bacteria are becoming more resistant to current drugs, making it harder to treat diseases caused by them. There is constant research into making new molecules to fight these more resistant pathogens, however there is always the chance that the bacteria will eventually adjust to new drugs in turn. Nanotechnology offers a different approach and recent advances are starting to bring their use closer to reality  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0033-Tiny-Tech-Antibacterial-nanocrystals.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0033-Tiny-Tech-Antibacterial-nanocrystals.mp3</guid>
+    <pubDate>Tue, 26 May 2020 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Nanotube Recycling of Electronic Waste</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Got your cell phone with you?  I thought so.  Like many other everyday electronic devices we cannot live without, your phone contains tiny amounts of scarce but critical rare earth elements, such as praseodynium and europium. Our seemingly insatiable appetite for the latest electronics means that the current global demand for these elements is far greater than theavailable supply...</itunes:subtitle>
+    <itunes:summary>Episode 034
+     
+Got your cell phone with you?  I thought so.  Like many other everyday electronic devices we cannot live without, your phone contains tiny amounts of scarce but critical rare earth elements, such as praseodynium and europium. Our seemingly insatiable appetite for the latest electronics means that the current global demand for these elements is far greater than theavailable supply  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0034-Nanotube-Recycling-of-Electronic-Waste.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0034-Nanotube-Recycling-of-Electronic-Waste.mp3</guid>
+    <pubDate>Wed, 02 September 2020 03:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Nanoparticles in Ancient Art</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Nanotechnology is considered an example of the latest in modern science.  But you might be surprised to know that one particular kind of nanotechnology has been around for a very long time. The Lycurgus cup is a small glass goblet decorated with an image of the mythical king Lycurgus.  It was made around 300 AD, possibly in Rome, and today is owned by the British Museum in London...</itunes:subtitle>
+    <itunes:summary>Episode 035
+     
+Nanotechnology is considered an example of the latest in modern science.  But you might be surprised to know that one particular kind of nanotechnology has been around for a very long time. The Lycurgus cup is a small glass goblet decorated with an image of the mythical king Lycurgus.  It was made around 300 AD, possibly in Rome, and today is owned by the British Museum in London. </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0035-Lycurgus-cup.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0035-Lycurgus-cup.mp3"</guid>
+    <pubDate>Wed, 28 April 2021 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>An Artificial Leaf?</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> To satisfy our future need for energy, it will be increasingly important to use renewable energy sources, such as sunlight.  Plants have been using sunlight as an energy source for millions of years.  In a process called photosynthesis, plants use the sun's energy to make cellulose and other chemicals they need...</itunes:subtitle>
+    <itunes:summary>Episode 036
+     
+To satisfy our future need for energy, it will be increasingly important to use renewable energy sources, such as sunlight.  Plants have been using sunlight as an energy source for millions of years.  In a process called photosynthesis, plants use the sun's energy to make cellulose and other chemicals they need.   </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0036-Artificial-Leaf.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0036-Artificial-Leaf.mp3</guid>
+    <pubDate>Fri, 14 May 2021 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Wood Lights</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> You can light fires with wood, but how about wood that emits light without burning?  Scientists from New Zealand recently took thin sheets of balsa wood and extracted them with a solvent to dissolve away some of the more soluble components. They then filled the holes in the resulting porous, spongy solid with nano-sized luminescent quantum dots...</itunes:subtitle>
+    <itunes:summary>Episode 037
+     
+You can light fires with wood, but how about wood that emits light without burning?  Scientists from New Zealand recently took thin sheets of balsa wood and extracted them with a solvent to dissolve away some of the more soluble components. They then filled the holes in the resulting porous, spongy solid with nano-sized luminescent quantum dots.  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0037-Wood-lights.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0037-Wood-lights.mp3</guid>
+    <pubDate>Fri, 4 June 2021 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>ITO or Graphene</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Cell phones and other mobile electronic devices are everywhere. Manufacturing them in large numbers, however, depends on the availability of rare elements that increasingly are in short supply. For example, the light emitting material in display screens must be situated between two layers of electrodes...</itunes:subtitle>
+    <itunes:summary>Episode 038
+     
+Cell phones and other mobile electronic devices are everywhere. Manufacturing them in large numbers, however, depends on the availability of rare elements that increasingly are in short supply. For example, the light emitting material in display screens must be situated between two layers of electrodes, and one of these electrodes must be transparent.  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0038-ITO-or-Graphene.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0038-ITO-or-Graphene.mp3</guid>
+    <pubDate>Wed, 17 February 2022 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>A Suit of Alloy</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> If you enjoy comics or superhero movies, you've probably heard of someone who's just a genius, billionaire, playboy, philanthropist when you take away his metal suit. But our superhero admitted that he liked the name iron man, even though the fictional suit was actually made of gold-titanium alloy...</itunes:subtitle>
+    <itunes:summary>Episode 039
+     
+If you enjoy comics or superhero movies, you've probably heard of someone who's just a genius, billionaire, playboy, philanthropist when you take away his metal suit. But our superhero admitted that he liked the name iron man, even though the fictional suit was actually made of gold-titanium alloy.  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0039-A-Suit-of-Alloy.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0039-A-Suit-of-Alloy.mp3</guid>
+    <pubDate>Wed, 13 April 2022 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Seeing through Liquids with an Electron Microscope</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> When scientists take pictures or movies of atom-sized objects, they often use a T.E.M.  a type of electron microscope that transmits an electron beam through the sample.  At first, however, only solids could have their picture taken...</itunes:subtitle>
+    <itunes:summary>Episode 040 When scientists take pictures or movies of atom-sized objects, they often use a T.E.M.  a type of electron microscope that transmits an electron beam through the sample.  At first, however, only solids could have their picture taken, because liquids tend to evaporate into the vacuum that the electron beam needs to travel through.  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0040-Liquid-TEM.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0040-Liquid-TEM.mp3</guid>
+    <pubDate>Wed, 20 April 2022 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Environmental Cleanup with Metal-Organic Frameworks</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Cleaning up environmental pollutants is a big problem that needs "out of the box" answers.  Recently, scientists have been investigating a new kind of material called a metal-organic framework or MOF...</itunes:subtitle>
+    <itunes:summary>Episode 041
+     
+Cleaning up environmental pollutants is a big problem that needs "out of the box" answers.  Recently, scientists have been investigating a new kind of material called a metal-organic framework or MOF for water purification.  </itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0041-MOFs.mp3">Download .mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0041-MOFs.mp3">Download .mp3</guid>
+    <pubDate>Fri, 15 July 2022 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Nanofiber bandages: Let's not all stick together</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Skinned knees are bad enough, but why is taking a bandage off sometimes as painful as the original accident?   Well, when moms (and doctors) treat a large skin wound...</itunes:subtitle>
+    <itunes:summary>Episode 042
+     
+Skinned knees are bad enough, but why is taking a bandage off sometimes as painful as the original accident?   Well, when moms (and doctors) treat a large skin wound...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0042-nanofiber_gauze.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0042-nanofiber_gauze.mp3</guid>
+    <pubDate>Fri, 2 June 2023 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Say Goodbye to Needles</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Have you ever wished you could get needed medical injections without being poked with a needle?  Well, instead of using needles, hand-held devices called jet injectors use high-pressure puffs of gases...</itunes:subtitle>
+    <itunes:summary>Episode 043
+     
+Have you ever wished you could get needed medical injections without being poked with a needle?  Well, instead of using needles, hand-held devices called jet injectors use high-pressure puffs of gases or liquids to deliver medicines just under the skin...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0043-jet-injections.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0043-jet-injections.mp3</guid>
+    <pubDate>Fri, 9 June 2023 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Beer and Magnetic BioBots</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Making beer by fermentation of barley and hops has been around for centuries.  But could nanotechnology improve the process?  Recently, to help with making beer, scientists have developed nanostructures called BioBots...</itunes:subtitle>
+    <itunes:summary>Episode 044
+     
+Making beer by fermentation of barley and hops has been around for centuries.  But could nanotechnology improve the process?  Recently, to help with making beer, scientists have developed nanostructures called BioBots...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0044-Biobots-for-beer.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0044-Biobots-for-beer.mp3</guid>
+    <pubDate>Fri, 30 June 2023 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Carbon Quantum Dots</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> In nanotechnology, the big ideas involve really small things, such as quantum dots. Quantum dots are very small chunks of matter that can be tuned to absorb or emit light of different colors simply by changing the size of the dot...</itunes:subtitle>
+    <itunes:summary>Episode 045
+     
+In nanotechnology, the big ideas involve really small things, such as quantum dots. Quantum dots are very small chunks of matter that can be tuned to absorb or emit light of different colors simply by changing the size of the dot...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0045-carbon-quantum-dots.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0045-carbon-quantum-dots.mp3</guid>
+    <pubDate>Fri, 14 July 2023 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Slick as a Whistle</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Spray-on windshield coatings that repel rain are really slick:  they consist of a thin film of silicone, the same rubbery material used as caulking around the home.  Silicones are hydrophobic, which means that they repel water, but some materials repel water so strongly that they are called superhydrophobic....</itunes:subtitle>
+    <itunes:summary>Episode 046
+     
+Spray-on windshield coatings that repel rain are really slick:  they consist of a thin film of silicone, the same rubbery material used as caulking around the home.  Silicones are hydrophobic, which means that they repel water, but some materials repel water so strongly that they are called superhydrophobic....</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0046-superhydrophobic-coatings.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0046-superhydrophobic-coatings.mp3</guid>
+    <pubDate>Fri, 4 August 2023 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Nano-fingerprints: Combating Counterfeits</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> How do you prove that you are you?  One way is to take advantage of the fact that your fingerprints make a pattern that is uniquely yours.  But how do we prove that the things around us from dollar bills to documents to pharmaceuticals are genuine and not counterfeits?...</itunes:subtitle>
+    <itunes:summary>Episode 047
+     
+How do you prove that you are you?  One way is to take advantage of the fact that your fingerprints make a pattern that is uniquely yours.  But how do we prove that the things around us from dollar bills to documents to pharmaceuticals are genuine and not counterfeits?...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0047-anti-counterfeiting-films.mp3" length="1435006" type="audio/mpeg" />
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0047-anti-counterfeiting-films.mp3</guid>
+    <pubDate>Fri, 22 September 2023 16:39:05 GMT</pubDate>
+	<itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>The Cozy Desert Chameleon</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> What's warm when its cold and cool when it's hot? One surprising answer is the Namibian chameleon!  This chameleon can control how much sunlight it absorbs by changing its skin color... </itunes:subtitle>
+    <itunes:summary>Episode 048 What's warm when it's cold and cool when it's hot?   One surprising answer is the Namibian chameleon!  This chameleon can control how much sunlight it absorbs by changing its skin color...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0048-chameleon-heating.mp3" length="1435006" type="audio/mpeg"/>
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0048-chameleon-heating.mp3</guid>
+    <pubDate>Fri, 19 January 2024 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Treating Acne by Getting Under Your Skin</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Everyone – especially teenagers – hates spots caused by acne. The bacteria that cause acne can be killed by antibiotics, but a big problem is the eventual development of antibiotic resistance... </itunes:subtitle>
+    <itunes:summary>Episode 049 Everyone – especially teenagers – hates spots caused by acne. The bacteria that cause acne can be killed by antibiotics, but a big problem is the eventual development of antibiotic resistance...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0049-nanomicellar-acne-treatment.mp3" length="1435006" type="audio/mpeg"/>
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0049-nanomicellar-acne-treatment.mp3</guid>
+    <pubDate>Fri, 12 April 2024 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Flow Batteries</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Over 20% of all electricity in the US is now generated by renewable wind and solar power.  That’s impressive, but wind turbines and solar panels are fickle:  sometimes they generate more electricity than is needed, and other times none at all... </itunes:subtitle>
+    <itunes:summary>Episode 050 Over 20% of all electricity in the US is now generated by renewable wind and solar power.  That’s impressive, but wind turbines and solar panels are fickle:  sometimes they generate more electricity than is needed, and other times none at all...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0050-Flow-Batteries.mp3" length="1435006" type="audio/mpeg"/>
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0050-Flow-Batteries.mp3</guid>
+    <pubDate>Fri, 15 November 2024 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Computers from DNA?</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Scientists and engineers are always looking for ways to make computers more powerful. Some have speculated that this might be possible using DNA, the molecules in our bodies that store genetic information... </itunes:subtitle>
+    <itunes:summary>Episode 051 Scientists and engineers are always looking for ways to make computers more powerful. Some have speculated that this might be possible using DNA, the molecules in our bodies that store genetic information....</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0051-DNA-Computer.mp3" length="1435006" type="audio/mpeg"/>
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0051-DNA-Computer.mp3</guid>
+    <pubDate>Fri, 22 November 2024 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Real-Life Spider-Man Web Shooter</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> In comic books and movies, Spider-Man uses wrist-worn devices called Web Shooters to capture enemies and swing between buildings at high speeds. The Web Shooters emit streams of liquid, which solidify and stick to the intended target. Awesome!  But is this possible in real life?... </itunes:subtitle>
+    <itunes:summary>Episode 052 In comic books and movies, Spider-Man uses wrist-worn devices called Web Shooters to capture enemies and swing between buildings at high speeds. The Web Shooters emit streams of liquid, which solidify and stick to the intended target. Awesome!  But is this possible in real life?....</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0052-Spider-Man-web-shooters.mp3" length="1435006" type="audio/mpeg"/>
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0052-Spider-Man-web-shooters.mp3</guid>
+    <pubDate>Fri, 24 January 2025 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Making Tiny Patterns with Lasers and Nanoparticles</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Scientists and engineers are always trying to develop better ways to make patterns on surfaces. Such patterns are the basis for how lots of things work... </itunes:subtitle>
+    <itunes:summary>Episode 053 Scientists and engineers are always trying to develop better ways to make patterns on surfaces. Such patterns are the basis for how lots of things work....</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0053-Laser-patterning.mp3" length="1435006" type="audio/mpeg"/>
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0053-Laser-patterning.mp3</guid>
+    <pubDate>Fri, 14 March 2025 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Wearable Sensors for Monitoring Cancer</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Doctors know that a treatment for cancer is probably working if the tumor shrinks in size. Today, tumor size is usually measured every couple of months or so, but it would be useful if the size could be monitored continuously... </itunes:subtitle>
+    <itunes:summary>Episode 054 Doctors know that a treatment for cancer is probably working if the tumor shrinks in size. Today, tumor size is usually measured every couple of months or so, but it would be useful if the size could be monitored continuously...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0054-tumor-measurement.mp3" length="1435006" type="audio/mpeg"/>
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0054-tumor-measurement.mp3</guid>
+    <pubDate>Fri, 28 March 2025 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>DNA Nanoturbine</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> DNA is the blueprint of life – the genetic code that shapes every living organism. But beyond genetics, DNA can be used not just for making humans: it can also be used for making tiny machines, such as turbines... </itunes:subtitle>
+    <itunes:summary>Episode 055 DNA is the blueprint of life – the genetic code that shapes every living organism. But beyond genetics, DNA can be used not just for making humans: it can also be used for making tiny machines, such as turbines...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0055-DNA-nanoturbine.mp3" length="1435006" type="audio/mpeg"/>
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0055-DNA-nanoturbine.mp3</guid>
+    <pubDate>Fri, 30 May 2025 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Super Sharp Microscope Tips</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> Have you ever closed your eyes and tried to identify an object by running your fingers over it?  This is what an atomic force microscope does but on a very small scale... </itunes:subtitle>
+    <itunes:summary>Episode 056 Have you ever closed your eyes and tried to identify an object by running your fingers over it?  This is what an atomic force microscope does but on a very small scale...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0056-Super-sharp-microscope-tips.mp3" length="1435006" type="audio/mpeg"/>
+    <guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0056-Super-sharp-microscope-tips.mp3</guid>
+    <pubDate>Fri, 17 October 2025 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+<item>
+    <title>Nanomaterials in Construction</title>
+    <itunes:author>Tiny Tech Radio Series</itunes:author>
+    <itunes:subtitle> What would it be like to have self-healing walls of your building? Or that the concrete you are standing on would last decades without cracking because it contains particles smaller than a virus?... </itunes:subtitle>
+    <itunes:summary>Episode 057 What would it be like to have self-healing walls of your building? Or that the concrete you are standing on would last decades without cracking because it contains particles smaller than a virus?...</itunes:summary>
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0057-Nano-in-construction.mp3" length="1435006" type="audio/mpeg"/>
+    <guidhttps://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0057-Nano-in-construction.mp3</guid>
+    <pubDate>Fri, 08 May 2026 16:39:05 GMT</pubDate>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:keywords>nanotechnology, computers</itunes:keywords>
+</item>
+
+
+</channel>
+
+</rss>
